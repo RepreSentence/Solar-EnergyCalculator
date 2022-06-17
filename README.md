@@ -1,3 +1,2 @@
 # SolarEnergyCalculator
 刚刚新建好文件夹......
-正在构思成品效果。
